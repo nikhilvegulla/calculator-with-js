@@ -1,0 +1,22 @@
+input[type='button']{
+    padding: 5px;
+    /* margin: 10px; */
+    width: 100%;
+    border: 1px solid black;
+    border-radius: 7px;
+    background-color: #ffcc66;
+    font-weight: 700;
+}
+
+input[type='text']{
+    width: 100%;
+    border: 1px solid black;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: 800;
+    background-color: #b3ffb3;
+}
+#c{
+    background: red;
+    
+}
